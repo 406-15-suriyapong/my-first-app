@@ -99,11 +99,11 @@ ans2 = st.text_input(
     value=st.session_state.ans2_val,
 )
 ans3 = st.text_input (
-    "ข้อ 2: Cats love to eat `B a _ _ _ a`. 🍌",
+    "ข้อ 3: MonKey like to eat `B a _ _ _ a`. 🍌",
     value=st.session_state.ans3_val,
 )
 ans4 = st.text_input (
-    "ข้อ 2: Cats love to eat `_ e n _ _ l`. ✏️",
+    "ข้อ 4: student use `_ e n _ _ l`. ✏️",
     value=st.session_state.ans4_val,
 )
 
